@@ -1,0 +1,7 @@
+git tag --list "v*"
+
+to delete a tag locally
+git tag -d <tag_name>
+
+To delete a tag remotely
+git push --delete origin <tag_name>
