@@ -1,0 +1,5 @@
+to remove locally
+git branch -d (name of branch)
+to remove remote
+git push origin --delete  (name of branch)
+
